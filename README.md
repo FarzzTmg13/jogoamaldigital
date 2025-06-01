@@ -1,4 +1,5 @@
 🕌 Aplikasi Pengelolaan Keuangan Masjid Jogokariyan
+
   Aplikasi ini dirancang sebagai solusi digital untuk mengoptimalkan pengelolaan keuangan Masjid Jogokariyan, Yogyakarta. Dengan pendekatan berbasis website, aplikasi ini membantu memperbaiki proses manual yang sebelumnya rentan terhadap kurangnya transparansi, kesulitan pelacakan transaksi, dan minimnya akuntabilitas.
 
 🎯 Tujuan
