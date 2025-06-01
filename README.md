@@ -2,12 +2,14 @@
 
   Aplikasi ini dirancang sebagai solusi digital untuk mengoptimalkan pengelolaan keuangan Masjid Jogokariyan, Yogyakarta. Dengan pendekatan berbasis website, aplikasi ini membantu memperbaiki proses manual yang sebelumnya rentan terhadap kurangnya transparansi, kesulitan pelacakan transaksi, dan minimnya akuntabilitas.
 
+
 🎯 Tujuan
 
 Membangun sistem pengelolaan keuangan masjid yang:
 - Lebih efisien, melalui otomatisasi input dan laporan transaksi.
 - Transparan, dengan fitur dashboard dan riwayat transaksi yang dapat diakses oleh admin maupun donatur.
 - Akuntabel, melalui pencatatan data secara real-time dan visualisasi yang mudah dipahami.
+
 
 🔧 Fitur Utama
 
@@ -18,6 +20,7 @@ Membangun sistem pengelolaan keuangan masjid yang:
 - Visualisasi Data : Grafik dan diagram untuk menampilkan tren pemasukan dan pengeluaran.
 - Metode Pembayaran Digital : Mendukung pembayaran via transfer bank dan dompet digital (sebagai konsep pengembangan lanjutan).
 
+
 🛠️ Teknologi yang Digunakan
 
 - Frontend : HTML, CSS, JavaScript, Tailwind CSS
@@ -26,6 +29,7 @@ Membangun sistem pengelolaan keuangan masjid yang:
 - Hosting : InfinityFree (Gratis)
 - Version Control : Git & GitHub
 
+
 📚 Metodologi Pengembangan
 
 - Analisis Sistem : Identifikasi kebutuhan dan permasalahan pada sistem manual.
@@ -33,8 +37,10 @@ Membangun sistem pengelolaan keuangan masjid yang:
 - Implementasi Sistem : Pengembangan aplikasi sesuai rancangan dan pengujian fitur.
 - Dokumentasi : Penyusunan laporan dan panduan penggunaan aplikasi.
 
+
 🌐 Tautan Demo
 https://jogoamaldigital.free.nf/
+
 
 💡 Kontribusi
 
